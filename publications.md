@@ -50,6 +50,10 @@ title: Publications
   
 - [Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels](https://arxiv.org/abs/2510.19007)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
 
+  
+
+- [A reversed solar illumination dependence of unintended emission from Starlink Direct-to-Cell satellites at 72–234 MHz with the EDA2](https://arxiv.org/abs/2605.17150)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to Publications of the Astronomical Society of Australia (PASA), 2026.<br>
+
   <br>
 
 ---
