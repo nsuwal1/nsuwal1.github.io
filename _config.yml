@@ -47,7 +47,7 @@ google_analytics: "G-T5N5JY1E21"                                 # GA-4 measurem
 #  `external: true` opens the link in a new tab.
 # --------------------------------------------------
 links:
-  - title: About Me
+  - title: Main
     url: /
   - title: Publications
     url: /publications/
@@ -61,8 +61,8 @@ links:
     url: /blogs/
   - title: 中文
     url: /cn/
-  - title: AI4Wellbening
-    url: https://ai4wellbeing.github.io/
+  # - title: AI4Wellbening
+    # url: https://ai4wellbeing.github.io/
 
 # --------------------------------------------------
 #  BUILD & RENDERING OPTIONS
