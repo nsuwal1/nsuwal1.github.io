@@ -3,114 +3,74 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
+# Publications
 
-> (†: equal contribution, ~~: corresponding author)
+For an updated list of publications and citation information, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=5E4l7H0AAAAJ).
 
-## Collaborators
+## Peer-Reviewed Journal Articles
 
-*The individuals listed below have profoundly shaped my research and personal development. Their invaluable contributions and guidance have greatly enriched all the work presented here.*
+### 2026
 
-- **Edge Intelligence:** [Falko Dressler (TU Berlin)](https://www.tkn.tu-berlin.de/team/dressler/), [Kai Li (CMU)](https://sites.google.com/site/lukasunsw/), [Yichen Li (HUST)](https://yichenli-hust.github.io/), [Zheng Lin (HKU)](https://xianhaochen.net/people)
-- **Wireless Communications:** [Ozgur B. Akan](https://oba.eco/), [Haofan Dong](https://scholar.google.com/citations?user=tuhdAK0AAAAJ&hl=zh-CN), [Houtianfu Wang (Cambridge)](https://ioe.eng.cam.ac.uk/staff/houtianfu-wang)
-- **Mobile Networks:** [Jon Crowcroft](https://www.cl.cam.ac.uk/~jac22/), [Junfei Zhan (UPenn)](https://junfei-z.github.io/), [Zhezhuang Xu (FZU)](https://scholar.google.com/citations?hl=zh-CN&user=iZ7LQRkAAAAJ&view_op=list_works&sortby=pubdate), [Meng Yuan (VUW)](https://myuan27.github.io/)<br><br>
+1. Sujakhu, U. K., Khatakho, R., **Suwal, N.**, & Poudel, A. (2026). Evaluating reference evapotranspiration (ETo) calculation methods and quantifying climate-driven change in irrigation demand across Nepal's Terai. *International Journal of Climatology*, e70455.
 
+2. Poudel, A., Khatakho, R., **Suwal, N.**, Rijal, P. R., & Sujakhu, U. K. (2026). Equitable water allocation in water-scarce regions: Insights from the Kankai Irrigation System, Eastern Nepal. *ACS ES&T Water, 6*(5), 2894–2911.
 
+3. Khatakho, R., **Suwal, N.**, Ankon, S. B., & Jha, A. N. (2026). Improving hydrological model performance and parameter transferability for data-scarce Himalayan basins to inform water resource decisions. *Hydrological Sciences Journal*.
 
-----
+4. Lamichhane, M., Jha, A. N., Ankon, S. B., **Suwal, N.**, Khatakho, R., & Ansari, A. (2026). Assessment and forecasting of drought in Nepal using a long short-term memory model. *Theoretical and Applied Climatology, 157*(6), 374.
 
-## Journal Paper
+### 2025
 
-- [Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs](https://arxiv.org/abs/2605.07961)<br>**Hanlin Cai**, Kai Li~~, Houtianfu Wang, Haofan Dong, Yichen Li, Falko Dressler, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+5. **Suwal, N.**, Khatakho, R., Jha, A. N., Ankon, S. B., Lamichhane, M., & Kuriqi, A. (2025). Streamflow forecasting using machine learning and remote sensing data in the Himalayan region. *Water Practice & Technology, 20*(12), 2472–2491.
 
-  
+### 2024
 
-- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan<br>Submitted to an IEEE ComSoc Magazine, 2025.<br>
+6. **Suwal, N.**, & Deng, Z. (2024). Modeling and mapping sea surface gage height using satellite remote sensing data. *Earth Science Informatics, 17*(4), 3271–3285.
 
-  
+7. Poudel, A., Chaudhary, R. K., **Suwal, N.**, & Mishra, R. K. (2024). Spatial prioritization of groundwater resources in a mountain region of Nepal: A GIS and AHP integrated framework. *Water Supply, 24*(8), 2914–2932.
 
-- [A Policy-Aware Cross-Layer Auditing Service for Tiering and Throttling in Starlink](https://arxiv.org/abs/2603.08990)<br>Houtianfu Wang, **Hanlin Cai~~**, Haofan Dong, Ozgur B. Akan<br>Submitted to IEEE Networking Letter, 2026.<br>
+### 2020
 
-  
-  
-- [Rain Rate Estimation Bounds and Weather-Adaptive Pilot Allocation for LEO Satellite ISAC](https://arxiv.org/abs/2604.10830)<br>Haofan Dong~~, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+8. **Suwal, N.**, Huang, X., Kuriqi, A., Chen, Y., Pandey, K. P., & Bhattarai, K. P. (2020). Optimisation of cascade reservoir operation considering environmental flows for different environmental management classes. *Renewable Energy, 158*, 453–464.
 
-  
-  
-- [Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances](https://arxiv.org/abs/2601.00820)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+9. **Suwal, N.**, Kuriqi, A., Huang, X., Delgado, J., Młyński, D., & Wałęga, A. (2020). Environmental flows assessment in Nepal: The case of the Kaligandaki River. *Sustainability, 12*(21), 8766.
 
-  
-  
-- Measurement-Grounded Deadline Feasibility over LEO RF and Optical Access Links<br>Houtianfu Wang, Osman. T. Baydas, **Hanlin Cai**, Haofan Dong, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+10. Thapa, B., Danegulu, A., **Suwal, N.**, Upadhyay, S., Manandhar, B., & Prajapati, R. (2020). Rainfall-runoff modelling of the West Rapti Basin, Nepal. *Technical Journal, 2*(1), 99–107.
 
-  
-  
-- [Physically-Induced Atmospheric Adversarial Perturbations: Enhancing Transferability and Robustness in Remote Sensing Image Classification](https://arxiv.org/abs/2604.14643)<br>Weiwei Zhang, Wangze Xie, Qi Zhang, Xia Du, Zihan Lin, Zheng Lin, **Hanlin Cai**, Jizhe Zhou, Zihan Fang, Chi-man Pun, Wei Ni, Jun Luo<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+### 2019
 
-  
-  
-- [Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels](https://arxiv.org/abs/2510.19007)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+11. Yuqin, G., Pandey, K. P., Huang, X., **Suwal, N.**, & Bhattarai, K. P. (2019). Estimation of hydrologic alteration in the Kaligandaki River using representative hydrologic indices. *Water, 11*(4), 688.
 
-  
+12. Bhattarai, K. P., Zhou, J., Palikhe, S., Pandey, K. P., & **Suwal, N.** (2019). Numerical modeling and hydraulic optimization of a surge tank using particle swarm optimization. *Water, 11*(4), 715.
 
-- [A reversed solar illumination dependence of unintended emission from Starlink Direct-to-Cell satellites at 72–234 MHz with the EDA2](https://arxiv.org/abs/2605.17150)<br>Haofan Dong~~, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to Publications of the Astronomical Society of Australia (PASA), 2026.<br>
-
-  <br>
+13. Huang, X., **Suwal, N.**, Fan, J., Pandey, K. P., & Jia, Y. (2019). Hydrological alteration assessment by histogram comparison approach: A case study of the Erdu River Basin, China. *Journal of Coastal Research, 93*(SI), 139–145.
 
 ---
 
-## Conference Paper
+## Preprints and Manuscripts
 
-- [Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling](https://arxiv.org/pdf/2603.11280)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to the IEEE 27th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC). <br>Athens, Greece. September, 2026.<br>
-
-  
-
-- [Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents](https://arxiv.org/abs/2511.07176)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Sai Zou~~, Ozgur B. Akan<br>Proceedings of the IEEE 22nd International Wireless Communications & Mobile Computing Conference (IWCMC). <br>Shanghai, China. June, 2026.<br>
-
-  
-
-- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai~~**, Ozgur B. Akan<br>Proceedings of the 9th Workshop on Molecular Communications<br>Catania, Italy. April, 2025.<br>
-
-  
-
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai†**, Yuchen Fang**†**, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu**~~**<br>Presented at the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Barcelona, Spain. August, 2024.<br>
-
-  
-
-- [Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu**~~**<br>Proceedings of the 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys).<br>Tokyo, Japan. June, 2024.<br>
-
-  
-
-- [Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design](https://arxiv.org/abs/2504.20016)<br>Linshi Li, **Hanlin Cai~~**<br>Proceedings of the 24th Annual ACM Interaction Design and Children Conference (IDC).<br>Reykjavik, Iceland. June, 2025.<br>
-
-  
-
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~~**<br>Proceedings of the 14th IEEE International Conference on Educational and Information Technology.<br>Guangzhou, China. March, 2025.<br>
-
-  <br>
-
+1. **Suwal, N.**, & Deng, Z. (2025). Light Gradient Boosting Machine-based modeling and forecasting of oyster norovirus outbreaks. *Authorea Preprints*.
 
 ---
 
-## Early Paper (during Undergrad)
+## Conference Presentations and Abstracts
 
-- [Securing Billion Bluetooth Devices Leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final-year project ([see thesis below]({{ site.url }}/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.<br>
+1. Deng, Z., Diaz, J. H., & **Suwal, N.** (2024). Monitoring, modeling, and mitigation of harmful algal blooms and environmental pathogens. *AGU Fall Meeting 2024*.
 
-  
+2. Deng, Z., & **Suwal, N.** (2023). Remote sensing detection of GeoHealth indicator sea surface gage height. *AGU Fall Meeting Abstracts 2023*, GH31B-1054.
 
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Third-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>Proceedings of the 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the *Journal of Advances in Artificial Life Robotics*.
+3. **Suwal, N.**, & Deng, Z. (2023). Determination of coastal water surface height using remote sensing data: A case study of the Louisiana Gulf Coast. *LAWater 2023: 14th Annual Louisiana Water Conference*.
 
-  <br>
+4. **Suwal, N.**, Huang, X., Pandey, K. P., & Bhattarai, K. P. (2019). Assessment of hydrological alteration and selection of representative hydrological indicators in the Erdu River, China.
 
 ---
 
-## Degree Thesis
+## Thesis
 
-- [Semantic Communication for the Internet of Everything: From Molecular to Space Networks]({{ site.url }}/mypaper/thesis/MPhil_thesis.pdf)<br>**Hanlin Cai** (Advisor: Dr. Ozgur B. Akan).<br>Examiners: [Dr. Sasitharan Balasubramaniam](https://computing.unl.edu/person/sasitharan-balasubramaniam/), [Dr. Qixiang Cheng](https://www.eng.cam.ac.uk/profiles/qc223).<br>Thesis awarded High Distinction.<br>
+1. **Suwal, N.** (2019). *Research on optimal operation of cascade hydropower stations considering ecological flows*. Hohai University, Nanjing, China.
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks]({{ site.url }}/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Dr. Zhezhuang Xu).<br>Best Bachelor Thesis Award (top 1/300, the highest score of year 2024).<br>
+---
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot]({{ site.url }}/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Yuxiong Xia).<br>Industrial Placement Report at China Fuzhou Huading Tech. (Third-year industrial progrom).<br>
+## Professional and Public-Facing Articles
 
-  <br>
-
-<br>
+1. Dhakal, S., & **Suwal, N.** (2021). How can Nepal manage water amidst the Fourth Industrial Revolution? *Water Science Policy*.
