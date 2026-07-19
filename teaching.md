@@ -8,9 +8,9 @@ permalink: /teaching/
 
 ## Louisiana State University
 
-Instructor : Fluid Mechanics Lab.
+-Instructor : Fluid Mechanics Lab.
 
-Teaching Assistant: Statics, Water Resource Engineering.
+-Teaching Assistant: Statics, Water Resource Engineering.
 
 ## Khwopa College of Engineering
 
