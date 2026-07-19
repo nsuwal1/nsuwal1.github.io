@@ -2,36 +2,57 @@
 layout: page
 ---
 
-## About Me
+# About Me
 
-<img src="{{ "/caihanlin.jpg" | relative_url }}" class="floatpic" alt="Hanlin Cai">
+<img src="{{ "/profile.jpg" | relative_url }}" class="floatpic" alt="Naresh Suwal">
 
-<br>Here is **Hanlin Cai** (Lance, 蔡汉霖).<br>
+I am **Naresh Suwal**, a water resources engineer and researcher specializing in hydrology, hydraulic modeling, geographic information systems, remote sensing, and machine learning.
 
-<br>I am a first-year PhD student in the [Internet of Everything Group](https://oba.eco/people/) at the University of Cambridge, where I am fortunate to be supervised by [Ozgur B. Akan](https://oba.eco/), and advised by [Jon Crowcroft](https://www.cst.cam.ac.uk/people/jac22) and [Kai Li](https://sites.google.com/site/lukasunsw/Home).
+I completed my Ph.D. in Civil and Environmental Engineering at Louisiana State University. My research integrates environmental data, physical-process understanding, geospatial analysis, Geohealth, and artificial intelligence/Machine Learning to address challenges related to streamflow prediction, flood and drought risk, climate change, hydropower, irrigation-water demand, coastal water quality, and waterborne disease.
 
-<br>My research is supported by the Cambridge Trust Scholarship and China Scholarship Council. Previously, I was very pleased to undertake summer research with [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) in the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+My research interests include:
 
-<br>Prior to joining Cambridge, I worked on wireless networks and cybersecurity under the guidance of [Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Meng Yuan](https://myuan27.github.io/). Additionally, I was honored to be selected as an outstanding undergraduate scholar at leading AI conferences, including AAAI 2024 and SIGKDD 2024.
+- Hydrologic and hydraulic modeling
+- Stormwater management and flood-risk assessment
+- Machine learning and explainable artificial intelligence
+- GIS and satellite remote sensing
+- Streamflow and drought prediction
+- Climate-change impact assessment
+- Hydropower and reservoir operation
+- Environmental flows
+- Water quality and water-related public health
 
-<br>I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **hc663 [at] cam.ac.uk**
+## Professional Experience
 
----
+### Water Resources Engineer  
+**Mannings Consult Pvt. Ltd., Nepal**
 
-## Research Interests
+- Conducted hydrologic and hydraulic modeling using HEC-HMS and HEC-RAS.
+- Prepared flood-inundation maps and evaluated river hydraulics.
+- Processed geospatial and environmental data using ArcGIS, QGIS, and R.
+- Coordinated field surveys for irrigation and water-resources projects.
 
-- Edge LLMs
-- LLM Networking
-- Attack, Defense, Resilience
+### Lecturer  
+**Khwopa College of Engineering, Nepal**
 
+- Taught water-resources and civil-engineering subjects.
+- Provided instruction on streamflow measurement using the velocity-area method.
+- Supported laboratory activities, student projects, and technical training.
 
----
+## Education
+
+- **Ph.D., Civil and Environmental Engineering**, Louisiana State University, USA
+- **M.S., Water Conservancy and Hydropower Engineering**, Hohai University, China
+- **Bachelor’s Degree in Agricultural Engineering**, Tribhuvan University, Nepal
+
+## Technical Skills
+
+**Hydrologic and hydraulic modeling:** HEC-RAS, HEC-HMS, SWMM, SWAT/SWAT+, Delft3D, EPANET, and MODFLOW
+
+**GIS and remote sensing:** ArcGIS Pro, ArcGIS Desktop, QGIS, Google Earth Engine, Landsat, MODIS, VIIRS, and satellite hydroclimatic datasets
+
+**Programming and machine learning:** Python, R, MATLAB, XGBoost, LightGBM, Random Forest, ANN, LSTM, TensorFlow, scikit-learn, and SHAP
 
 ## News and Updates
 
-- **Nov 2025**：Excited to receive an Honorary Mention Award in the 2025 IEEE ComSoc Student Competition!
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge Trust and CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
+- **August 2026:** Ph.D. graduation from Louisiana State University.
