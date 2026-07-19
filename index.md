@@ -54,6 +54,12 @@ My research interests include:
 
 **Programming and machine learning:** Python, R, MATLAB, XGBoost, LightGBM, Random Forest, ANN, LSTM, TensorFlow, scikit-learn, and SHAP
 
+## Research Collaboration and Leadership
+
+I collaborate with **Smartphones for Water Nepal (S4W-Nepal)** on Headwater quantification in Kathmandu Valley. My work includes analyzing streamflow observations, watershed characteristics, and GIS and remote-sensing data, as well as developing regional models to estimate water availability in data-scarce watersheds.
+
+I am also a Co-Founder of the [Institute for Integrated Hydro-Environment Research (IIHR)](https://iihr.org.np/), a Nepal-based nonprofit research-for-development organization. Through IIHR, I contribute to collaborative research, project development, scientific publications, and knowledge-sharing activities related to hydrology, hydraulic engineering, water resources, climate change, geospatial analysis, environmental modeling, and water-induced disasters.
+
 ## News and Updates
 
 - **August 2026:** Ph.D. graduation from Louisiana State University.
