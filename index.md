@@ -4,7 +4,6 @@ layout: page
 
 # About Me
 
-<img src="{{ "/profile.jpg" | relative_url }}" class="floatpic" alt="Naresh Suwal">
 Water Resources Engineer and researcher specializing in hydrology, hydraulic modeling, geographic information systems, remote sensing, and machine learning.
 
 I completed my Ph.D. in Civil and Environmental Engineering at Louisiana State University. My research integrates environmental data, physical-process understanding, geospatial analysis, Geohealth, and artificial intelligence/Machine Learning to address challenges related to streamflow prediction, flood and drought risk, climate change, hydropower, irrigation-water demand, coastal water quality, and waterborne disease.
